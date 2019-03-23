@@ -8,7 +8,7 @@ This was done to create the layout and re-familiarise ourselves with the layout 
 
 ### Lessons learned
 
-* how to improve something
+* how to improve the html code and the css styling to make it look better on front end
 * how to make the layout neater 
 * using media queries to tailor the layout according to screen size
 * using paragraphs in articles and asides
